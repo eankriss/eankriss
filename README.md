@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eankriss and you can call me kriss.
+- 👋 Hi, I’m Kryz-Ian and you can call me Kryz.
 - 👀 I’m interested in coding languages like c++, java(w/ or w/o gui), vb.net(w/ or w/o gui), html with css, javascript and php.
 - 🌱 I’m currently learning some of languages that already taught on us and my specialty is system with gui (java & vb.net).
 - 💞️ I’m looking to collaborate on beginners or simple projects.
